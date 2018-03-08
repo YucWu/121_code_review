@@ -1,9 +1,9 @@
 #TODO: fix this whole fuction
-def hithisfuncissocomp!!licated(n)
-    for i in 0..n
-        for j in 0..3
-            puts 'HI'
-        end
+def sayhiNtimes(n)
+    for i in 0..4n-1
+        a = 'Hi'
+        puts a
+        
     end
 
 end
